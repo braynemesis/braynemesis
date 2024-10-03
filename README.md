@@ -1,5 +1,3 @@
-# Olá! Seja Bem vindo!
-
 Front-end Developer 🚀
 
 I am a passionate Front-end Engineer with expertise in building modern web and mobile applications. With a strong foundation in JavaScript and frameworks like React, React Native, Vue, and their ecosystems (Next.js, Nuxt.js), I focus on delivering high-performance and user-friendly interfaces. I also have experience with Node.js for back-end development and TypeScript to ensure scalable and maintainable code.
