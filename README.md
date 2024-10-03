@@ -2,10 +2,7 @@
 
 Front-end Developer 🚀
 
-Entusiasta de Desenvolvimento Web, atualmente apaixonado pelo React.js, Vue,js e Typescript.
-
-"Nada no mundo pode superar a persistência. O talento não supera. Não há nada mais comum que talentosos fracassados.
-A genialidade não supera. O gênio desconhecido é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. A persistência e a determinação são muito poderosas."
+I am a passionate Front-end Engineer with expertise in building modern web and mobile applications. With a strong foundation in JavaScript and frameworks like React, React Native, Vue, and their ecosystems (Next.js, Nuxt.js), I focus on delivering high-performance and user-friendly interfaces. I also have experience with Node.js for back-end development and TypeScript to ensure scalable and maintainable code.
 
 
 <a href="https://www.linkedin.com/in/brayner-felipe" target="_blank">
