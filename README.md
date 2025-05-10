@@ -12,5 +12,5 @@ I am a passionate Web Engineer with expertise in building modern web and mobile 
 </a>
 
 <a href="https://dev.to/braynemesis" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white](https://www.codewars.com/users/braynemesis/badges/micro" alt="CodeWars" />
 </a>
