@@ -1,13 +1,45 @@
-Front-end Developer 🚀
+# 👋 Hey everyone!
 
-I am a passionate Web Engineer with expertise in building modern web and mobile applications. With a strong foundation in JavaScript and frameworks like React, React Native, Vue, and their ecosystems (Next.js, Nuxt.js), I focus on delivering high-performance and user-friendly interfaces. I also have experience with Node.js for back-end development and TypeScript to ensure scalable and maintainable code.
+I'm **Brayner Leite**, a 33-year-old fullstack developer focused on **web and mobile development** and **software architecture**. 
+I'm passionate about turning ideas into **real, impactful products** and diving deep into tech internals to build elegant, performant, and scalable solutions.
 
+---
 
-<a href="https://www.linkedin.com/in/brayner-felipe" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
+## 🧠 Areas of Interest
 
-<a href="https://www.instagram.com/brayner_felipe" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-[![Codewars](https://www.codewars.com/users/braynememesis/badges/large)](https://www.codewars.com/users/braynemesis)
+- Front Development(w react, Vue, Vanilla JS)
+- Mobile Development (w react native)
+- UI / UX (w figma, xd)
+- Software Architecture (Monorepos, Clean Code, Clean Arch, DDD)
+- Build Engineering & DevOps (Docker, Redis, PostgreSQL, CI/CD)
+
+---
+
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, React Native  
+- **Backend:** NestJS, Node.js, Prisma, Express  
+- **Databases:** PostgreSQL, Redis , Firebase, Mongo, Supabasee 
+- **DevOps:** Docker, Docker Compose
+- **Testing:** Jest, Vitest, Testing Library, Cypress
+
+---
+
+## 🧪 Constantly Learning
+
+📍 Currently diving deeper into:
+- event driven architecture
+- Web performance and metrics
+- React Query & TurboRepo architecture for modern monorepos
+
+---
+
+## 🧩 My Challenge Progress
+
+[![Codewars](https://www.codewars.com/users/braynemesis/badges/large)](https://www.codewars.com/users/braynemesis)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayner-felipe)
+
+---
