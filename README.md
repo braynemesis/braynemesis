@@ -1,6 +1,6 @@
 # 👋 Hey everyone!
 
-I'm **Brayner Leite**, a 33-year-old fullstack developer focused on **web and mobile development** and **software architecture**. 
+I'm **Brayner Leite**, a 33-year-old software developer focused on **web and mobile development** and **software architecture**. 
 I'm passionate about turning ideas into **real, impactful products** and diving deep into tech internals to build elegant, performant, and scalable solutions.
 
 ---
