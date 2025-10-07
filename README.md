@@ -15,8 +15,8 @@ I'm passionate about turning ideas into **real, impactful products** and diving 
 
 ---
 
-- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, React Native  
-- **Backend:** NestJS, Node.js, Prisma, Express  
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, React Native, Blade  
+- **Backend:** NestJS, Node.js, Prisma, Express, PHP, Laravel  
 - **Databases:** PostgreSQL, Redis , Firebase, Mongo, Supabasee 
 - **DevOps:** Docker, Docker Compose
 - **Testing:** Jest, Vitest, Testing Library, Cypress
