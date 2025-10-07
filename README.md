@@ -28,7 +28,7 @@ I'm passionate about turning ideas into **real, impactful products** and diving 
 📍 Currently diving deeper into:
 - event driven architecture
 - Web performance and metrics
-- React Query & TurboRepo architecture for modern monorepos
+- AI Gen & MCP servers development
 
 ---
 
